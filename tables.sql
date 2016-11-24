@@ -3,7 +3,7 @@ USE northwind;
 Select count(*) from customers;
 Select count(*) from employees;
 Select count(*) from sales_reports;
-Select count(*) from employee_priviliges;
+Select count(*) from order_details;
 Select count(*) from shippers;
 Select count(*) from orders_tax_status;
 Select count(*) from orders;
