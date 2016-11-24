@@ -1,0 +1,210 @@
+count(*)
+29
+count(*)
+9
+count(*)
+5
+count(*)
+58
+count(*)
+3
+count(*)
+2
+count(*)
+48
+count(*)
+45
+count(*)
+10
+count(*)
+35
+first_name	id
+Andrew	56
+Andrew	79
+Andrew	80
+Andrew	81
+Anne	30
+Anne	34
+Anne	38
+Anne	50
+Anne	51
+Anne	57
+Anne	61
+Anne	65
+Anne	76
+Anne	77
+Jan	31
+Jan	35
+Jan	39
+Jan	58
+Jan	62
+Jan	66
+Laura	37
+Laura	64
+Mariya	32
+Mariya	36
+Mariya	40
+Mariya	48
+Mariya	59
+Mariya	63
+Mariya	67
+Mariya	75
+Michael	33
+Michael	47
+Michael	60
+Michael	74
+Nancy	41
+Nancy	42
+Nancy	43
+Nancy	44
+Nancy	45
+Nancy	55
+Nancy	68
+Nancy	69
+Nancy	70
+Nancy	71
+Nancy	72
+Nancy	78
+Robert	46
+Robert	73
+supplier_ids	id	product_code	product_name	description	standard_cost	list_price	reorder_level	target_level	quantity_per_unit	discontinued	minimum_reorder_quantity	category	attachments	id	purchase_order_id	product_id	quantity	unit_cost	date_received	posted_to_inventory	inventory_id
+4	1	NWTB-1	Northwind Traders Chai	NULL	13.5000	18.0000	10	40	10 boxes x 20 bags	0	10	Beverages		238	90	1	40.0000	14.0000	2006-01-22 00:00:00	1	59
+4	1	NWTB-1	Northwind Traders Chai	NULL	13.5000	18.0000	10	40	10 boxes x 20 bags	0	10	Beverages		281	90	1	40.0000	14.0000	NULL	0	NULL
+4	1	NWTB-1	Northwind Traders Chai	NULL	13.5000	18.0000	10	40	10 boxes x 20 bags	0	10	Beverages		290	142	1	1.0000	13.5000	NULL	0	NULL
+10	3	NWTCO-3	Northwind Traders Syrup	NULL	7.5000	10.0000	25	100	12 - 550 ml bottles	0	25	Condiments		239	91	3	100.0000	8.0000	2006-01-22 00:00:00	1	54
+10	3	NWTCO-3	Northwind Traders Syrup	NULL	7.5000	10.0000	25	100	12 - 550 ml bottles	0	25	Condiments		285	91	3	50.0000	8.0000	NULL	0	NULL
+10	4	NWTCO-4	Northwind Traders Cajun Seasoning	NULL	16.5000	22.0000	10	40	48 - 6 oz jars	0	10	Condiments		240	91	4	40.0000	16.0000	2006-01-22 00:00:00	1	55
+10	4	NWTCO-4	Northwind Traders Cajun Seasoning	NULL	16.5000	22.0000	10	40	48 - 6 oz jars	0	10	Condiments		286	91	4	40.0000	16.0000	NULL	0	NULL
+10	5	NWTO-5	Northwind Traders Olive Oil	NULL	16.0125	21.3500	10	40	36 boxes	0	10	Oil		241	91	5	40.0000	16.0000	2006-01-22 00:00:00	1	56
+2;6	6	NWTJP-6	Northwind Traders Boysenberry Spread	NULL	18.7500	25.0000	25	100	12 - 8 oz jars	0	25	Jams, Preserves		242	92	6	100.0000	19.0000	2006-01-22 00:00:00	1	40
+2;6	6	NWTJP-6	Northwind Traders Boysenberry Spread	NULL	18.7500	25.0000	25	100	12 - 8 oz jars	0	25	Jams, Preserves		289	141	6	10.0000	18.7500	NULL	0	NULL
+2	7	NWTDFN-7	Northwind Traders Dried Pears	NULL	22.5000	30.0000	10	40	12 - 1 lb pkgs.	0	10	Dried Fruit & Nuts		243	92	7	40.0000	22.0000	2006-01-22 00:00:00	1	41
+8	8	NWTS-8	Northwind Traders Curry Sauce	NULL	30.0000	40.0000	10	40	12 - 12 oz jars	0	10	Sauces		244	92	8	40.0000	30.0000	2006-01-22 00:00:00	1	42
+8	8	NWTS-8	Northwind Traders Curry Sauce	NULL	30.0000	40.0000	10	40	12 - 12 oz jars	0	10	Sauces		278	108	8	25.0000	30.0000	2006-04-05 00:00:00	1	105
+2;6	14	NWTDFN-14	Northwind Traders Walnuts	NULL	17.4375	23.2500	10	40	40 - 100 g pkgs.	0	10	Dried Fruit & Nuts		245	92	14	40.0000	17.0000	2006-01-22 00:00:00	1	43
+6	17	NWTCFV-17	Northwind Traders Fruit Cocktail	NULL	29.2500	39.0000	10	40	15.25 OZ	0	10	Canned Fruit & Vegetables		246	92	17	40.0000	29.0000	2006-01-22 00:00:00	1	44
+1	19	NWTBGM-19	Northwind Traders Chocolate Biscuits Mix	NULL	6.9000	9.2000	5	20	10 boxes x 12 pieces	0	5	Baked Goods & Mixes		247	92	19	20.0000	7.0000	2006-01-22 00:00:00	1	45
+1	19	NWTBGM-19	Northwind Traders Chocolate Biscuits Mix	NULL	6.9000	9.2000	5	20	10 boxes x 12 pieces	0	5	Baked Goods & Mixes		267	97	19	30.0000	7.0000	2006-01-22 00:00:00	1	80
+1	19	NWTBGM-19	Northwind Traders Chocolate Biscuits Mix	NULL	6.9000	9.2000	5	20	10 boxes x 12 pieces	0	5	Baked Goods & Mixes		273	103	19	10.0000	7.0000	2006-04-17 00:00:00	1	111
+1	19	NWTBGM-19	Northwind Traders Chocolate Biscuits Mix	NULL	6.9000	9.2000	5	20	10 boxes x 12 pieces	0	5	Baked Goods & Mixes		279	109	19	25.0000	7.0000	2006-04-05 00:00:00	1	109
+1	19	NWTBGM-19	Northwind Traders Chocolate Biscuits Mix	NULL	6.9000	9.2000	5	20	10 boxes x 12 pieces	0	5	Baked Goods & Mixes		282	92	19	20.0000	7.0000	NULL	0	NULL
+2;6	20	NWTJP-6	Northwind Traders Marmalade	NULL	60.7500	81.0000	10	40	30 gift boxes	0	10	Jams, Preserves		248	92	20	40.0000	61.0000	2006-01-22 00:00:00	1	46
+2;6	20	NWTJP-6	Northwind Traders Marmalade	NULL	60.7500	81.0000	10	40	30 gift boxes	0	10	Jams, Preserves		292	146	20	40.0000	60.0000	NULL	0	NULL
+1	21	NWTBGM-21	Northwind Traders Scones	NULL	7.5000	10.0000	5	20	24 pkgs. x 4 pieces	0	5	Baked Goods & Mixes		249	92	21	20.0000	8.0000	2006-01-22 00:00:00	1	47
+4	34	NWTB-34	Northwind Traders Beer	NULL	10.5000	14.0000	15	60	24 - 12 oz bottles	0	15	Beverages		250	90	34	60.0000	10.0000	2006-01-22 00:00:00	1	60
+4	34	NWTB-34	Northwind Traders Beer	NULL	10.5000	14.0000	15	60	24 - 12 oz bottles	0	15	Beverages		266	96	34	100.0000	10.0000	2006-01-22 00:00:00	1	82
+4	34	NWTB-34	Northwind Traders Beer	NULL	10.5000	14.0000	15	60	24 - 12 oz bottles	0	15	Beverages		277	107	34	300.0000	10.0000	2006-04-05 00:00:00	1	107
+4	34	NWTB-34	Northwind Traders Beer	NULL	10.5000	14.0000	15	60	24 - 12 oz bottles	0	15	Beverages		283	111	34	50.0000	10.0000	2006-04-04 00:00:00	1	102
+7	40	NWTCM-40	Northwind Traders Crab Meat	NULL	13.8000	18.4000	30	120	24 - 4 oz tins	0	30	Canned Meat		251	92	40	120.0000	14.0000	2006-01-22 00:00:00	1	48
+7	40	NWTCM-40	Northwind Traders Crab Meat	NULL	13.8000	18.4000	30	120	24 - 4 oz tins	0	30	Canned Meat		294	147	40	120.0000	13.0000	NULL	0	NULL
+6	41	NWTSO-41	Northwind Traders Clam Chowder	NULL	7.2375	9.6500	10	40	12 - 12 oz cans	0	10	Soups		252	92	41	40.0000	7.0000	2006-01-22 00:00:00	1	49
+6	41	NWTSO-41	Northwind Traders Clam Chowder	NULL	7.2375	9.6500	10	40	12 - 12 oz cans	0	10	Soups		268	98	41	200.0000	7.0000	2006-01-22 00:00:00	1	78
+6	41	NWTSO-41	Northwind Traders Clam Chowder	NULL	7.2375	9.6500	10	40	12 - 12 oz cans	0	10	Soups		274	104	41	50.0000	7.0000	2006-04-06 00:00:00	1	115
+3;4	43	NWTB-43	Northwind Traders Coffee	NULL	34.5000	46.0000	25	100	16 - 500 g tins	0	25	Beverages		253	90	43	100.0000	34.0000	2006-01-22 00:00:00	1	61
+3;4	43	NWTB-43	Northwind Traders Coffee	NULL	34.5000	46.0000	25	100	16 - 500 g tins	0	25	Beverages		269	99	43	300.0000	34.0000	2006-01-22 00:00:00	1	76
+3;4	43	NWTB-43	Northwind Traders Coffee	NULL	34.5000	46.0000	25	100	16 - 500 g tins	0	25	Beverages		272	102	43	300.0000	34.0000	NULL	0	NULL
+3;4	43	NWTB-43	Northwind Traders Coffee	NULL	34.5000	46.0000	25	100	16 - 500 g tins	0	25	Beverages		280	110	43	250.0000	34.0000	2006-04-10 00:00:00	1	103
+10	48	NWTCA-48	Northwind Traders Chocolate	NULL	9.5625	12.7500	25	100	10 pkgs	0	25	Candy		254	92	48	100.0000	10.0000	2006-01-22 00:00:00	1	50
+10	48	NWTCA-48	Northwind Traders Chocolate	NULL	9.5625	12.7500	25	100	10 pkgs	0	25	Candy		270	100	48	100.0000	10.0000	2006-01-22 00:00:00	1	74
+2	51	NWTDFN-51	Northwind Traders Dried Apples	NULL	39.7500	53.0000	10	40	50 - 300 g pkgs.	0	10	Dried Fruit & Nuts		255	92	51	40.0000	40.0000	2006-01-22 00:00:00	1	51
+2	51	NWTDFN-51	Northwind Traders Dried Apples	NULL	39.7500	53.0000	10	40	50 - 300 g pkgs.	0	10	Dried Fruit & Nuts		293	146	51	40.0000	39.0000	NULL	0	NULL
+1	52	NWTG-52	Northwind Traders Long Grain Rice	NULL	5.2500	7.0000	25	100	16 - 2 kg boxes	0	25	Grains		256	93	52	100.0000	5.0000	2006-01-22 00:00:00	1	37
+1	56	NWTP-56	Northwind Traders Gnocchi	NULL	28.5000	38.0000	30	120	24 - 250 g pkgs.	0	30	Pasta		257	93	56	120.0000	28.0000	2006-01-22 00:00:00	1	38
+1	57	NWTP-57	Northwind Traders Ravioli	NULL	14.6250	19.5000	20	80	24 - 250 g pkgs.	0	20	Pasta		258	93	57	80.0000	15.0000	2006-01-22 00:00:00	1	39
+1	57	NWTP-57	Northwind Traders Ravioli	NULL	14.6250	19.5000	20	80	24 - 250 g pkgs.	0	20	Pasta		275	105	57	100.0000	15.0000	2006-04-05 00:00:00	1	100
+8	65	NWTS-65	Northwind Traders Hot Pepper Sauce	NULL	15.7875	21.0500	10	40	32 - 8 oz bottles	0	10	Sauces		259	91	65	40.0000	16.0000	2006-01-22 00:00:00	1	57
+8	66	NWTS-66	Northwind Traders Tomato Sauce	NULL	12.7500	17.0000	20	80	24 - 8 oz jars	0	20	Sauces		260	91	66	80.0000	13.0000	2006-01-22 00:00:00	1	58
+5	72	NWTD-72	Northwind Traders Mozzarella	NULL	26.1000	34.8000	10	40	24 - 200 g pkgs.	0	10	Dairy products		261	94	72	40.0000	26.0000	2006-01-22 00:00:00	1	36
+5	72	NWTD-72	Northwind Traders Mozzarella	NULL	26.1000	34.8000	10	40	24 - 200 g pkgs.	0	10	Dairy products		276	106	72	50.0000	26.0000	2006-04-05 00:00:00	1	113
+5	72	NWTD-72	Northwind Traders Mozzarella	NULL	26.1000	34.8000	10	40	24 - 200 g pkgs.	0	10	Dairy products		295	148	72	40.0000	26.0000	NULL	0	NULL
+2;6	74	NWTDFN-74	Northwind Traders Almonds	NULL	7.5000	10.0000	5	20	5 kg pkg.	0	5	Dried Fruit & Nuts		262	92	74	20.0000	8.0000	2006-01-22 00:00:00	1	52
+10	77	NWTCO-77	Northwind Traders Mustard	NULL	9.7500	13.0000	15	60	12 boxes	0	15	Condiments		263	92	77	60.0000	10.0000	2006-01-22 00:00:00	1	53
+2	80	NWTDFN-80	Northwind Traders Dried Plums	NULL	3.0000	3.5000	50	75	1 lb bag	0	25	Dried Fruit & Nuts		264	95	80	75.0000	3.0000	2006-01-22 00:00:00	1	35
+3	81	NWTB-81	Northwind Traders Green Tea	NULL	2.0000	2.9900	100	125	20 bags per box	0	25	Beverages		265	90	81	125.0000	2.0000	2006-01-22 00:00:00	1	62
+3	81	NWTB-81	Northwind Traders Green Tea	NULL	2.0000	2.9900	100	125	20 bags per box	0	25	Beverages		271	101	81	200.0000	2.0000	2006-01-22 00:00:00	1	72
+1	85	NWTBGM-85	Northwind Traders Brownie Mix	NULL	9.0000	12.4900	10	20	3 boxes	0	5	Baked Goods & Mixes		288	140	85	10.0000	9.0000	NULL	0	NULL
+id	company	last_name	first_name	email_address	job_title	business_phone	home_phone	mobile_phone	fax_number	address	city	state_province	zip_postal_code	country_region	web_page	notes	attachments	id	supplier_id	created_by	submitted_date	creation_date	status_id	expected_date	shipping_fee	taxes	payment_date	payment_amount	payment_method	notes	approved_by	approved_date	submitted_by
+1	Northwind Traders	Freehafer	Nancy	nancy@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 1st Avenue	Seattle	WA	99999	USA	#http://northwindtraders.com#	NULL		102	1	1	2006-03-24 00:00:00	2006-03-24 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #41	2	2006-04-04 00:00:00	1
+1	Northwind Traders	Freehafer	Nancy	nancy@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 1st Avenue	Seattle	WA	99999	USA	#http://northwindtraders.com#	NULL		103	2	1	2006-03-24 00:00:00	2006-03-24 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #42	2	2006-04-04 00:00:00	1
+1	Northwind Traders	Freehafer	Nancy	nancy@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 1st Avenue	Seattle	WA	99999	USA	#http://northwindtraders.com#	NULL		104	2	1	2006-03-24 00:00:00	2006-03-24 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #45	2	2006-04-04 00:00:00	1
+2	Northwind Traders	Cencini	Andrew	andrew@northwindtraders.com	Vice President, Sales	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 2nd Avenue	Bellevue	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales.		90	1	2	2006-01-14 00:00:00	2006-01-22 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	NULL	2	2006-01-22 00:00:00	2
+2	Northwind Traders	Cencini	Andrew	andrew@northwindtraders.com	Vice President, Sales	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 2nd Avenue	Bellevue	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales.		91	3	2	2006-01-14 00:00:00	2006-01-22 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	NULL	2	2006-01-22 00:00:00	2
+2	Northwind Traders	Cencini	Andrew	andrew@northwindtraders.com	Vice President, Sales	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 2nd Avenue	Bellevue	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales.		92	2	2	2006-01-14 00:00:00	2006-01-22 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	NULL	2	2006-01-22 00:00:00	2
+2	Northwind Traders	Cencini	Andrew	andrew@northwindtraders.com	Vice President, Sales	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 2nd Avenue	Bellevue	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales.		93	5	2	2006-01-14 00:00:00	2006-01-22 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	NULL	2	2006-01-22 00:00:00	2
+2	Northwind Traders	Cencini	Andrew	andrew@northwindtraders.com	Vice President, Sales	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 2nd Avenue	Bellevue	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales.		94	6	2	2006-01-14 00:00:00	2006-01-22 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	NULL	2	2006-01-22 00:00:00	2
+2	Northwind Traders	Cencini	Andrew	andrew@northwindtraders.com	Vice President, Sales	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 2nd Avenue	Bellevue	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales.		95	4	2	2006-01-14 00:00:00	2006-01-22 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	NULL	2	2006-01-22 00:00:00	2
+2	Northwind Traders	Cencini	Andrew	andrew@northwindtraders.com	Vice President, Sales	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 2nd Avenue	Bellevue	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales.		101	1	2	2006-01-14 00:00:00	2006-01-22 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #40	2	2006-01-22 00:00:00	2
+2	Northwind Traders	Cencini	Andrew	andrew@northwindtraders.com	Vice President, Sales	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 2nd Avenue	Bellevue	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales.		111	1	2	2006-03-31 00:00:00	2006-03-31 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #56	2	2006-04-04 00:00:00	2
+2	Northwind Traders	Cencini	Andrew	andrew@northwindtraders.com	Vice President, Sales	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 2nd Avenue	Bellevue	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales.		146	2	2	2006-04-26 18:26:37	2006-04-26 18:26:37	1	NULL	0.0000	0.0000	NULL	0.0000	NULL	NULL	NULL	NULL	2
+2	Northwind Traders	Cencini	Andrew	andrew@northwindtraders.com	Vice President, Sales	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 2nd Avenue	Bellevue	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales.		147	7	2	2006-04-26 18:33:28	2006-04-26 18:33:28	1	NULL	0.0000	0.0000	NULL	0.0000	NULL	NULL	NULL	NULL	2
+2	Northwind Traders	Cencini	Andrew	andrew@northwindtraders.com	Vice President, Sales	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 2nd Avenue	Bellevue	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Joined the company as a sales representative, was promoted to sales manager and was then named vice president of sales.		148	5	2	2006-04-26 18:33:52	2006-04-26 18:33:52	1	NULL	0.0000	0.0000	NULL	0.0000	NULL	NULL	NULL	NULL	2
+3	Northwind Traders	Kotas	Jan	jan@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 3rd Avenue	Redmond	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Was hired as a sales associate and was promoted to sales representative.		99	1	3	2006-01-14 00:00:00	2006-01-22 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #38	2	2006-01-22 00:00:00	3
+3	Northwind Traders	Kotas	Jan	jan@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 3rd Avenue	Redmond	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Was hired as a sales associate and was promoted to sales representative.		110	1	3	2006-03-24 00:00:00	2006-03-24 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #49	2	2006-04-04 00:00:00	3
+4	Northwind Traders	Sergienko	Mariya	mariya@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 4th Avenue	Kirkland	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	NULL		98	2	4	2006-01-14 00:00:00	2006-01-22 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #36	2	2006-01-22 00:00:00	4
+4	Northwind Traders	Sergienko	Mariya	mariya@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 4th Avenue	Kirkland	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	NULL		108	2	4	2006-03-24 00:00:00	2006-03-24 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #48	2	2006-04-04 00:00:00	4
+4	Northwind Traders	Sergienko	Mariya	mariya@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 4th Avenue	Kirkland	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	NULL		109	2	4	2006-03-24 00:00:00	2006-03-24 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #48	2	2006-04-04 00:00:00	4
+5	Northwind Traders	Thorpe	Steven	steven@northwindtraders.com	Sales Manager	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 5th Avenue	Seattle	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Joined the company as a sales representative and was promoted to sales manager.  Fluent in French.		96	1	5	2006-01-14 00:00:00	2006-01-22 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #30	2	2006-01-22 00:00:00	5
+6	Northwind Traders	Neipper	Michael	michael@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 6th Avenue	Redmond	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Fluent in Japanese and can read and write French, Portuguese, and Spanish.		107	1	6	2006-03-24 00:00:00	2006-03-24 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #47	2	2006-04-04 00:00:00	6
+7	Northwind Traders	Zare	Robert	robert@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 7th Avenue	Seattle	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	NULL		97	2	7	2006-01-14 00:00:00	2006-01-22 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #33	2	2006-01-22 00:00:00	7
+7	Northwind Traders	Zare	Robert	robert@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 7th Avenue	Seattle	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	NULL		105	5	7	2006-03-24 00:00:00	2006-03-24 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	Check	Purchase generated based on Order #46	2	2006-04-04 00:00:00	7
+7	Northwind Traders	Zare	Robert	robert@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 7th Avenue	Seattle	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	NULL		106	6	7	2006-03-24 00:00:00	2006-03-24 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #46	2	2006-04-04 00:00:00	7
+9	Northwind Traders	Hellung-Larsen	Anne	anne@northwindtraders.com	Sales Representative	(123)555-0100	(123)555-0102	NULL	(123)555-0103	123 9th Avenue	Seattle	WA	99999	USA	http://northwindtraders.com#http://northwindtraders.com/#	Fluent in French and German.		100	2	9	2006-01-14 00:00:00	2006-01-22 00:00:00	2	NULL	0.0000	0.0000	NULL	0.0000	NULL	Purchase generated based on Order #39	2	2006-01-22 00:00:00	9
+id	employee_id	customer_id	order_date	shipped_date	shipper_id	ship_name	ship_address	ship_city	ship_state_province	ship_zip_postal_code	ship_country_region	shipping_fee	taxes	payment_type	paid_date	notes	tax_rate	tax_status_id	status_id	id	order_id	product_id	quantity	unit_price	discount	status_id	date_allocated	purchase_order_id	inventory_id
+30	9	27	2006-01-15 00:00:00	2006-01-22 00:00:00	2	Karen Toh	789 27th Street	Las Vegas	NV	99999	USA	200.0000	0.0000	Check	2006-01-15 00:00:00	NULL	0	NULL	3	27	30	34	100.0000	14.0000	0	2	NULL	96	83
+30	9	27	2006-01-15 00:00:00	2006-01-22 00:00:00	2	Karen Toh	789 27th Street	Las Vegas	NV	99999	USA	200.0000	0.0000	Check	2006-01-15 00:00:00	NULL	0	NULL	3	28	30	80	30.0000	3.5000	0	2	NULL	NULL	63
+31	3	4	2006-01-20 00:00:00	2006-01-22 00:00:00	1	Christina Lee	123 4th Street	New York	NY	99999	USA	5.0000	0.0000	Credit Card	2006-01-20 00:00:00	NULL	0	NULL	3	29	31	7	10.0000	30.0000	0	2	NULL	NULL	64
+31	3	4	2006-01-20 00:00:00	2006-01-22 00:00:00	1	Christina Lee	123 4th Street	New York	NY	99999	USA	5.0000	0.0000	Credit Card	2006-01-20 00:00:00	NULL	0	NULL	3	30	31	51	10.0000	53.0000	0	2	NULL	NULL	65
+31	3	4	2006-01-20 00:00:00	2006-01-22 00:00:00	1	Christina Lee	123 4th Street	New York	NY	99999	USA	5.0000	0.0000	Credit Card	2006-01-20 00:00:00	NULL	0	NULL	3	31	31	80	10.0000	3.5000	0	2	NULL	NULL	66
+32	4	12	2006-01-22 00:00:00	2006-01-22 00:00:00	2	John Edwards	123 12th Street	Las Vegas	NV	99999	USA	5.0000	0.0000	Credit Card	2006-01-22 00:00:00	NULL	0	NULL	3	32	32	1	15.0000	18.0000	0	2	NULL	NULL	67
+32	4	12	2006-01-22 00:00:00	2006-01-22 00:00:00	2	John Edwards	123 12th Street	Las Vegas	NV	99999	USA	5.0000	0.0000	Credit Card	2006-01-22 00:00:00	NULL	0	NULL	3	33	32	43	20.0000	46.0000	0	2	NULL	NULL	68
+33	6	8	2006-01-30 00:00:00	2006-01-31 00:00:00	3	Elizabeth Andersen	123 8th Street	Portland	OR	99999	USA	50.0000	0.0000	Credit Card	2006-01-30 00:00:00	NULL	0	NULL	3	34	33	19	30.0000	9.2000	0	2	NULL	97	81
+34	9	4	2006-02-06 00:00:00	2006-02-07 00:00:00	3	Christina Lee	123 4th Street	New York	NY	99999	USA	4.0000	0.0000	Check	2006-02-06 00:00:00	NULL	0	NULL	3	35	34	19	20.0000	9.2000	0	2	NULL	NULL	69
+35	3	29	2006-02-10 00:00:00	2006-02-12 00:00:00	2	Soo Jung Lee	789 29th Street	Denver	CO	99999	USA	7.0000	0.0000	Check	2006-02-10 00:00:00	NULL	0	NULL	3	36	35	48	10.0000	12.7500	0	2	NULL	NULL	70
+36	4	3	2006-02-23 00:00:00	2006-02-25 00:00:00	2	Thomas Axen	123 3rd Street	Los Angelas	CA	99999	USA	7.0000	0.0000	Cash	2006-02-23 00:00:00	NULL	0	NULL	3	37	36	41	200.0000	9.6500	0	2	NULL	98	79
+37	8	6	2006-03-06 00:00:00	2006-03-09 00:00:00	2	Francisco Pérez-Olaeta	123 6th Street	Milwaukee	WI	99999	USA	12.0000	0.0000	Credit Card	2006-03-06 00:00:00	NULL	0	NULL	3	38	37	8	17.0000	40.0000	0	2	NULL	NULL	71
+38	9	28	2006-03-10 00:00:00	2006-03-11 00:00:00	3	Amritansh Raghav	789 28th Street	Memphis	TN	99999	USA	10.0000	0.0000	Check	2006-03-10 00:00:00	NULL	0	NULL	3	39	38	43	300.0000	46.0000	0	2	NULL	99	77
+39	3	8	2006-03-22 00:00:00	2006-03-24 00:00:00	3	Elizabeth Andersen	123 8th Street	Portland	OR	99999	USA	5.0000	0.0000	Check	2006-03-22 00:00:00	NULL	0	NULL	3	40	39	48	100.0000	12.7500	0	2	NULL	100	75
+40	4	10	2006-03-24 00:00:00	2006-03-24 00:00:00	2	Roland Wacker	123 10th Street	Chicago	IL	99999	USA	9.0000	0.0000	Credit Card	2006-03-24 00:00:00	NULL	0	NULL	3	41	40	81	200.0000	2.9900	0	2	NULL	101	73
+41	1	7	2006-03-24 00:00:00	NULL	NULL	Ming-Yang Xie	123 7th Street	Boise	ID	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	0	42	41	43	300.0000	46.0000	0	1	NULL	102	104
+42	1	10	2006-03-24 00:00:00	2006-04-07 00:00:00	1	Roland Wacker	123 10th Street	Chicago	IL	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	2	43	42	6	10.0000	25.0000	0	2	NULL	NULL	84
+42	1	10	2006-03-24 00:00:00	2006-04-07 00:00:00	1	Roland Wacker	123 10th Street	Chicago	IL	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	2	44	42	4	10.0000	22.0000	0	2	NULL	NULL	85
+42	1	10	2006-03-24 00:00:00	2006-04-07 00:00:00	1	Roland Wacker	123 10th Street	Chicago	IL	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	2	45	42	19	10.0000	9.2000	0	2	NULL	103	110
+43	1	11	2006-03-24 00:00:00	NULL	3	Peter Krschne	123 11th Street	Miami	FL	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	0	46	43	80	20.0000	3.5000	0	1	NULL	NULL	86
+43	1	11	2006-03-24 00:00:00	NULL	3	Peter Krschne	123 11th Street	Miami	FL	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	0	47	43	81	50.0000	2.9900	0	1	NULL	NULL	87
+44	1	1	2006-03-24 00:00:00	NULL	NULL	Anna Bedecs	123 1st Street	Seattle	WA	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	0	48	44	1	25.0000	18.0000	0	1	NULL	NULL	88
+44	1	1	2006-03-24 00:00:00	NULL	NULL	Anna Bedecs	123 1st Street	Seattle	WA	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	0	49	44	43	25.0000	46.0000	0	1	NULL	NULL	89
+44	1	1	2006-03-24 00:00:00	NULL	NULL	Anna Bedecs	123 1st Street	Seattle	WA	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	0	50	44	81	25.0000	2.9900	0	1	NULL	NULL	90
+45	1	28	2006-04-07 00:00:00	2006-04-07 00:00:00	3	Amritansh Raghav	789 28th Street	Memphis	TN	99999	USA	40.0000	0.0000	Credit Card	2006-04-07 00:00:00	NULL	0	NULL	3	51	45	41	50.0000	9.6500	0	2	NULL	104	116
+45	1	28	2006-04-07 00:00:00	2006-04-07 00:00:00	3	Amritansh Raghav	789 28th Street	Memphis	TN	99999	USA	40.0000	0.0000	Credit Card	2006-04-07 00:00:00	NULL	0	NULL	3	52	45	40	50.0000	18.4000	0	2	NULL	NULL	91
+46	7	9	2006-04-05 00:00:00	2006-04-05 00:00:00	1	Sven Mortensen	123 9th Street	Salt Lake City	UT	99999	USA	100.0000	0.0000	Check	2006-04-05 00:00:00	NULL	0	NULL	3	53	46	57	100.0000	19.5000	0	2	NULL	105	101
+46	7	9	2006-04-05 00:00:00	2006-04-05 00:00:00	1	Sven Mortensen	123 9th Street	Salt Lake City	UT	99999	USA	100.0000	0.0000	Check	2006-04-05 00:00:00	NULL	0	NULL	3	54	46	72	50.0000	34.8000	0	2	NULL	106	114
+47	6	6	2006-04-08 00:00:00	2006-04-08 00:00:00	2	Francisco Pérez-Olaeta	123 6th Street	Milwaukee	WI	99999	USA	300.0000	0.0000	Credit Card	2006-04-08 00:00:00	NULL	0	NULL	3	55	47	34	300.0000	14.0000	0	2	NULL	107	108
+48	4	8	2006-04-05 00:00:00	2006-04-05 00:00:00	2	Elizabeth Andersen	123 8th Street	Portland	OR	99999	USA	50.0000	0.0000	Check	2006-04-05 00:00:00	NULL	0	NULL	3	56	48	8	25.0000	40.0000	0	2	NULL	108	106
+48	4	8	2006-04-05 00:00:00	2006-04-05 00:00:00	2	Elizabeth Andersen	123 8th Street	Portland	OR	99999	USA	50.0000	0.0000	Check	2006-04-05 00:00:00	NULL	0	NULL	3	57	48	19	25.0000	9.2000	0	2	NULL	109	112
+50	9	25	2006-04-05 00:00:00	2006-04-05 00:00:00	1	John Rodman	789 25th Street	Chicago	IL	99999	USA	5.0000	0.0000	Cash	2006-04-05 00:00:00	NULL	0	NULL	3	59	50	21	20.0000	10.0000	0	2	NULL	NULL	92
+51	9	26	2006-04-05 00:00:00	2006-04-05 00:00:00	3	Run Liu	789 26th Street	Miami	FL	99999	USA	60.0000	0.0000	Credit Card	2006-04-05 00:00:00	NULL	0	NULL	3	60	51	5	25.0000	21.3500	0	2	NULL	NULL	93
+51	9	26	2006-04-05 00:00:00	2006-04-05 00:00:00	3	Run Liu	789 26th Street	Miami	FL	99999	USA	60.0000	0.0000	Credit Card	2006-04-05 00:00:00	NULL	0	NULL	3	61	51	41	30.0000	9.6500	0	2	NULL	NULL	94
+51	9	26	2006-04-05 00:00:00	2006-04-05 00:00:00	3	Run Liu	789 26th Street	Miami	FL	99999	USA	60.0000	0.0000	Credit Card	2006-04-05 00:00:00	NULL	0	NULL	3	62	51	40	30.0000	18.4000	0	2	NULL	NULL	95
+55	1	29	2006-04-05 00:00:00	2006-04-05 00:00:00	2	Soo Jung Lee	789 29th Street	Denver	CO	99999	USA	200.0000	0.0000	Check	2006-04-05 00:00:00	NULL	0	NULL	3	67	55	34	87.0000	14.0000	0	2	NULL	NULL	117
+56	2	6	2006-04-03 00:00:00	2006-04-03 00:00:00	3	Francisco Pérez-Olaeta	123 6th Street	Milwaukee	WI	99999	USA	0.0000	0.0000	Check	2006-04-03 00:00:00	NULL	0	NULL	3	66	56	48	10.0000	12.7500	0	2	NULL	111	99
+58	3	4	2006-04-22 00:00:00	2006-04-22 00:00:00	1	Christina Lee	123 4th Street	New York	NY	99999	USA	5.0000	0.0000	Credit Card	2006-04-22 00:00:00	NULL	0	NULL	3	84	58	20	40.0000	81.0000	0	2	NULL	NULL	134
+58	3	4	2006-04-22 00:00:00	2006-04-22 00:00:00	1	Christina Lee	123 4th Street	New York	NY	99999	USA	5.0000	0.0000	Credit Card	2006-04-22 00:00:00	NULL	0	NULL	3	85	58	52	40.0000	7.0000	0	2	NULL	NULL	135
+60	6	8	2006-04-30 00:00:00	2006-04-30 00:00:00	3	Elizabeth Andersen	123 8th Street	Portland	OR	99999	USA	50.0000	0.0000	Credit Card	2006-04-30 00:00:00	NULL	0	NULL	3	81	60	72	40.0000	34.8000	0	2	NULL	NULL	131
+63	4	3	2006-04-25 00:00:00	2006-04-25 00:00:00	2	Thomas Axen	123 3rd Street	Los Angelas	CA	99999	USA	7.0000	0.0000	Cash	2006-04-25 00:00:00	NULL	0	NULL	3	82	63	3	50.0000	10.0000	0	2	NULL	NULL	132
+63	4	3	2006-04-25 00:00:00	2006-04-25 00:00:00	2	Thomas Axen	123 3rd Street	Los Angelas	CA	99999	USA	7.0000	0.0000	Cash	2006-04-25 00:00:00	NULL	0	NULL	3	83	63	8	3.0000	40.0000	0	2	NULL	NULL	133
+67	4	10	2006-05-24 00:00:00	2006-05-24 00:00:00	2	Roland Wacker	123 10th Street	Chicago	IL	99999	USA	9.0000	0.0000	Credit Card	2006-05-24 00:00:00	NULL	0	NULL	3	80	67	74	20.0000	10.0000	0	2	NULL	NULL	130
+69	1	10	2006-05-24 00:00:00	NULL	1	Roland Wacker	123 10th Street	Chicago	IL	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	0	79	69	80	15.0000	3.5000	0	2	NULL	NULL	129
+70	1	11	2006-05-24 00:00:00	NULL	3	Peter Krschne	123 11th Street	Miami	FL	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	0	78	70	8	20.0000	40.0000	0	2	NULL	NULL	128
+71	1	1	2006-05-24 00:00:00	NULL	3	Anna Bedecs	123 1st Street	Seattle	WA	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	0	77	71	40	40.0000	18.4000	0	2	NULL	NULL	127
+72	1	28	2006-06-07 00:00:00	2006-06-07 00:00:00	3	Amritansh Raghav	789 28th Street	Memphis	TN	99999	USA	40.0000	0.0000	Credit Card	2006-06-07 00:00:00	NULL	0	NULL	3	76	72	43	5.0000	46.0000	0	2	NULL	NULL	126
+73	7	9	2006-06-05 00:00:00	2006-06-05 00:00:00	1	Sven Mortensen	123 9th Street	Salt Lake City	UT	99999	USA	100.0000	0.0000	Check	2006-06-05 00:00:00	NULL	0	NULL	3	75	73	41	10.0000	9.6500	0	2	NULL	NULL	125
+74	6	6	2006-06-08 00:00:00	2006-06-08 00:00:00	2	Francisco Pérez-Olaeta	123 6th Street	Milwaukee	WI	99999	USA	300.0000	0.0000	Credit Card	2006-06-08 00:00:00	NULL	0	NULL	3	74	74	48	40.0000	12.7500	0	2	NULL	NULL	124
+75	4	8	2006-06-05 00:00:00	2006-06-05 00:00:00	2	Elizabeth Andersen	123 8th Street	Portland	OR	99999	USA	50.0000	0.0000	Check	2006-06-05 00:00:00	NULL	0	NULL	3	73	75	48	40.0000	12.7500	0	2	NULL	NULL	123
+76	9	25	2006-06-05 00:00:00	2006-06-05 00:00:00	1	John Rodman	789 25th Street	Chicago	IL	99999	USA	5.0000	0.0000	Cash	2006-06-05 00:00:00	NULL	0	NULL	3	72	76	4	30.0000	22.0000	0	2	NULL	NULL	122
+77	9	26	2006-06-05 00:00:00	2006-06-05 00:00:00	3	Run Liu	789 26th Street	Miami	FL	99999	USA	60.0000	0.0000	Credit Card	2006-06-05 00:00:00	NULL	0	NULL	3	71	77	6	90.0000	25.0000	0	2	NULL	NULL	121
+78	1	29	2006-06-05 00:00:00	2006-06-05 00:00:00	2	Soo Jung Lee	789 29th Street	Denver	CO	99999	USA	200.0000	0.0000	Check	2006-06-05 00:00:00	NULL	0	NULL	3	70	78	17	40.0000	39.0000	0	2	NULL	NULL	120
+79	2	6	2006-06-23 00:00:00	2006-06-23 00:00:00	3	Francisco Pérez-Olaeta	123 6th Street	Milwaukee	WI	99999	USA	0.0000	0.0000	Check	2006-06-23 00:00:00	NULL	0	NULL	3	68	79	7	30.0000	30.0000	0	2	NULL	NULL	119
+79	2	6	2006-06-23 00:00:00	2006-06-23 00:00:00	3	Francisco Pérez-Olaeta	123 6th Street	Milwaukee	WI	99999	USA	0.0000	0.0000	Check	2006-06-23 00:00:00	NULL	0	NULL	3	69	79	51	30.0000	53.0000	0	2	NULL	NULL	118
+80	2	4	2006-04-25 17:03:55	NULL	NULL	Christina Lee	123 4th Street	New York	NY	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	0	86	80	56	10.0000	38.0000	0	1	NULL	NULL	136
+81	2	3	2006-04-25 17:26:53	NULL	NULL	Thomas Axen	123 3rd Street	Los Angelas	CA	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	0	90	81	81	0.0000	2.9900	0	5	NULL	NULL	NULL
+81	2	3	2006-04-25 17:26:53	NULL	NULL	Thomas Axen	123 3rd Street	Los Angelas	CA	99999	USA	0.0000	0.0000	NULL	NULL	NULL	0	NULL	0	91	81	56	0.0000	38.0000	0	0	NULL	NULL	NULL
